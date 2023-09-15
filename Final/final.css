@@ -30,7 +30,7 @@
     width: 88px;
     height: 121px;
     background: url(triggermod.png);
-    opacity: 0;
+    opacity: 255;
 }
 
 .xbox .trigger.left {
