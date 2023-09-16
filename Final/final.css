@@ -11,6 +11,10 @@
     background: url(disconnectedmod.png);
 }
 
+.xbox.disconnected div {
+    display: none;
+}
+
 .xbox .abxy {
     position: absolute;
     width: 153px;
