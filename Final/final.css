@@ -7,6 +7,10 @@
         margin-top: -285px;*/
 }
 
+.xbox.disconnected {
+    background: url(disconnected.png);
+}
+
 .xbox .abxy {
     position: absolute;
     width: 153px;
